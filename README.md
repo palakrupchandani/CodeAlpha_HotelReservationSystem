@@ -76,3 +76,5 @@ java HotelReservationSystem
 ## Note
 
 This is a beginner-level Java console application. Booking information is stored in memory and is reset when the program terminates.
+Author
+Palak Rupchandani
